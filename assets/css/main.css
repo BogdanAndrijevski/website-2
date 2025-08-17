@@ -32,10 +32,12 @@ body{
 .social a i{
 	height: 40px;
 	width: 40px;
-	border: 1px solid #111;
+	border: 1px solid white;
+	/* border: 1px solid #111; */
 	line-height: 40px;
 	margin: 0 10px;
-	color: #111;
+	color: white;
+	/* color: #111; */
 	font-size: 20px;
 	padding-bottom: 20px;
 	}
@@ -80,10 +82,12 @@ body{
 	width: 100%;
 }
 .btn-rabbit{
-	background-color: #fff;
-	color: #111;
+	/* background-color: #fff; */
+	border: 2px solid white;
+	color: white;
+	/* color: #111; */
 	font-style: italic;
-	border: 1px solid #111;
+	/* border: 1px solid #111; */
 	border-radius: 0px !important;
 	transition: all 0.4s ease-in-out;
 	margin-bottom: 20px;
@@ -203,7 +207,7 @@ footer{
 	content: '';
 	position: absolute;
 	height: 1px;
-	background-color: black;
+	background-color: white;
 	left: 0;
 	margin: 2px;
 }
@@ -222,7 +226,8 @@ footer{
 	font-style: italic;
 	font-weight: 600;
 	font-size: 20px;
-	color: #3b3b3b;
+	color: white;
+	/* color: #3b3b3b; */
 	line-height: 28px;
 	font-family: "Crimson";
 	margin-top: 15px;
@@ -257,7 +262,7 @@ footer{
 
 .item{
 	
-	background-color: #313131;
+	/* background-color: #313131; */
 	color: #f9f9f9;
 }
 
@@ -333,3 +338,4 @@ footer{
 .fade-img.loaded {
   opacity: 1;
 }
+
