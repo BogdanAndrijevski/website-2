@@ -245,7 +245,10 @@ input, select, textarea {
 		}
 
 	@media screen and (max-width: 736px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 		html {
 			height: auto;
 		}
@@ -259,7 +262,10 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 480px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 		html, body {
 			min-width: 320px;
 		}
@@ -274,7 +280,10 @@ input, select, textarea {
 	}
 
 		@media screen and (max-width: 1680px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 			html {
 				font-size: 12pt;
 				font-size: 1.1vmax;
@@ -283,7 +292,10 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 1280px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 			html {
 				font-size: 11pt;
 				font-size: 1.5vmax;
@@ -471,7 +483,10 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 736px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 		html {
 			font-size: 12pt;
 		}
@@ -533,7 +548,10 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 360px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 		html {
 			font-size: 11pt;
 		}
@@ -589,7 +607,10 @@ input, select, textarea {
 				}
 
 		@media screen and (max-width: 736px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 			form > .fields {
 				width: calc(100% + 2.25rem);
 				margin: -1.125rem 0 1.5rem -1.125rem;
@@ -1079,6 +1100,8 @@ input, select, textarea {
 				ul.alt li:first-child {
 					border-top: 0;
 					padding-top: 0;
+
+					
 				}
 
 	dl {
@@ -1327,7 +1350,10 @@ input, select, textarea {
 				}
 
 		@media screen and (max-width: 736px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 			ul.grid-icons {
 				-moz-justify-content: -moz-flex-start;
 				-webkit-justify-content: -webkit-flex-start;
@@ -1956,7 +1982,10 @@ input, select, textarea {
 			}
 
 	@media screen and (max-width: 980px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 		.gallery .modal .inner img {
 			max-width: 100vw;
 		}
@@ -1964,7 +1993,10 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 736px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 		.gallery {
 			-moz-flex-direction: column;
 			-webkit-flex-direction: column;
@@ -2150,7 +2182,10 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 480px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 		.gallery .image {
 			height: 30rem;
 		}
@@ -2765,7 +2800,10 @@ input, select, textarea {
 		}
 
 	@media screen and (max-width: 736px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 		.panel {
 			-moz-flex-direction: column;
 			-webkit-flex-direction: column;
@@ -3328,7 +3366,10 @@ input, select, textarea {
 		}
 
 	@media screen and (max-width: 736px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 		.panel.banner .content {
 			padding: 2.8875rem 1.75rem 1.3875rem 1.75rem ;
 			-moz-flex-basis: 60%;
@@ -3351,7 +3392,10 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 736px) and (orientation: portrait) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 		.panel.banner .content {
 			-moz-flex-basis: auto;
 			-webkit-flex-basis: auto;
@@ -3458,7 +3502,10 @@ input, select, textarea {
 			}
 
 	@media screen and (max-width: 736px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 		.panel.spotlight .content {
 			padding: 2.8875rem 1.75rem 1.3875rem 1.75rem ;
 			-moz-flex-direction: column !important;
@@ -3472,7 +3519,10 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 480px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 		.panel.spotlight .content {
 			min-height: 30rem;
 		}
@@ -3507,7 +3557,10 @@ input, select, textarea {
 	}
 
 		@media screen and (orientation: portrait) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 			#page-wrapper {
 				padding-left: 2rem;
 				padding-right: 2rem;
@@ -3516,7 +3569,10 @@ input, select, textarea {
 		}
 
 		@media screen and (min-aspect-ratio: 16 / 7) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 			#page-wrapper {
 				padding: 6vh;
 			}
@@ -3524,7 +3580,10 @@ input, select, textarea {
 		}
 
 		@media screen and (min-aspect-ratio: 16 / 6) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 			#page-wrapper {
 				padding: 0;
 			}
@@ -3532,7 +3591,10 @@ input, select, textarea {
 		}
 
 	@media screen and (max-width: 736px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 		#page-wrapper {
 			height: auto;
 			padding: 1rem;
@@ -3541,7 +3603,10 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 480px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 		#page-wrapper {
 			padding: 0;
 		}
@@ -3643,7 +3708,10 @@ input, select, textarea {
 		}
 
 	@media screen and (max-width: 736px) {
-
+#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	}
 		#wrapper {
 			-moz-flex-direction: column;
 			-webkit-flex-direction: column;
@@ -3674,6 +3742,10 @@ input, select, textarea {
 	}
 
 	@media screen and (max-width: 480px) {
+		#sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+		}
 
 		#wrapper {
 			box-shadow: none;
@@ -3687,3 +3759,8 @@ input, select, textarea {
 			}
 
 	}
+
+	/* #sup{
+		border: 0px solid transparent !important;
+		height: 80vh !important;
+	} */
