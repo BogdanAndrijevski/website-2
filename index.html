@@ -25,7 +25,12 @@
             <div class="container main">
                 <div class="row home">
                     <div id = "index_left" class="col-md-6 left">
-                        <img class="img-responsive img-rabbit" src="assets/images/home.jpg">
+                        <!-- <img class="img-responsive img-rabbit" src="assets/images/home.jpg"> -->
+                         <img 
+                            src="assets/images/home.jpg" 
+                            alt="Home" 
+                            class="img-responsive img-rabbit fade-img">
+
                     </div>
                     <div id = "index_right" class="col-md-6 text-center right">
                         <div class="logo">
@@ -147,6 +152,24 @@
             
         </div>                                                              <!-- Contact ends here -->
         
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                const images = document.querySelectorAll(".fade-img");
+
+                images.forEach(img => {
+                img.addEventListener("load", () => {
+                    img.classList.add("loaded");
+                });
+
+                // If the image is already cached (e.g., on repeat visits), trigger it immediately
+                if (img.complete) {
+                    img.classList.add("loaded");
+                }
+                });
+            });
+            </script>
+
+
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
         <script src="assets/js/bootstrap.min.js"></script>
         <script src="assets/js/script.js"></script>

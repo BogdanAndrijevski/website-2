@@ -325,3 +325,11 @@ footer{
 .show{
 	display: block;
 }
+
+.fade-img {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out; /* smooth fade-in */
+}
+.fade-img.loaded {
+  opacity: 1;
+}
